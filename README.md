@@ -17,14 +17,14 @@ Project Structure
 spam-detector/
 │
 ├── spamDetection/
-│   ├── emails.csv                  # Dataset
-│   ├── spam_filter_model.pkl      # Trained model (optional)
-│   ├── spam_detector.py           # Main code (training & prediction)
-│   └── utils.py                   # Helper functions (e.g., preprocessing)
+│   ├── emails.csv                 
+│   ├── spam_filter_model.pkl      
+│   ├── spam_detector.py           
+│   └── utils.py                   
 │
-├── README.md                      # Project documentation
-├── requirements.txt               # Python dependencies
-└── .gitignore                     # Files to ignore by Git
+├── README.md                      
+├── requirements.txt               
+└── .gitignore                     
 
 Tech Stack
 
